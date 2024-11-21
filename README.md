@@ -1,4 +1,4 @@
-# *PiyushRaut-CC-CA2-Activity*
+# *RITESH NAGTODE-CC-CA2-Activity*
 
 This project is a *full-stack application* combining a *React.js front-end* and a *Spring Boot-based back-end. It manages student information, including  registration data, using **MongoDB Atlas* as the database.
 
