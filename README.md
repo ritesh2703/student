@@ -66,4 +66,4 @@ properties
 - *Hosting Platforms*: Render, Netlify (or similar)
 
 ## *Deployed Project Link*
-[- Netlify : https://b424piyush.netlify.app/](https://a417riteshnagtodeccproject.netlify.app/)
+[- Netlify : (https://a417riteshnagtodeccproject.netlify.app/)]
